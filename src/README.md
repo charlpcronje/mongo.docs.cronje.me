@@ -10,7 +10,7 @@ authors:
 date: 2022-03-07T16:58
 description: Mongo DB Documentation
 edit:
-  repo: "https://github.com/charlpcronje/docs.cronje.me/edit/"
+  repo: "https://github.com/charlpcronje/mango.docs.cronje.me/edit/"
   base: /src
   branch: main
   label: Edit on GitHub
@@ -35,7 +35,7 @@ links:
 footer:
   copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
 ---
-<script type="text/javascript">(function(w,s){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://cdn.pagesense.io/js/webally/f2527eebee974243853bcd47b32631f4.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(e,x);})(window,"script");</script>
+
 
 ```sh
 ______  ______________   ________________  _________                    _______________________       ________        ______  ____________
@@ -47,6 +47,8 @@ _  /  / / / /_/ /_  /|  / / /_/ / / /_/ /__/ /_/ / / /_/ / /__ _(__  )__/ /___  
 01001101 01001111 01001110 01000111 01001111 00101110 01100100 01101111 01100011 01110011 00101110 01000011 01010010 01001111 01101110 
 01101010 01100101 00101110 01001101 01000101 
 ```
+
+<script type="text/javascript">(function(w,s){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://cdn.pagesense.io/js/webally/f2527eebee974243853bcd47b32631f4.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(e,x);})(window,"script");</script>
 
 This package adds functionalities to the Eloquent model and Query builder for MongoDB, using the original Laravel API. *This library extends the original Laravel classes, so it uses exactly the same methods.*
 
